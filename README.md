@@ -2,6 +2,7 @@
 This project has been a part of my intenership with United Network Professionals (UNP) which involved delving into SQL querying using the HR dataset, enabling insightful data extraction and analysis. The project involved learning how to :
 
 Create tables and assign primary keys & foreign keys to create data relationships.
+
 Importing the data into the Backup database. Have also learnt to write queries and find various insights like:
 
 1.Number of employees from each city.
